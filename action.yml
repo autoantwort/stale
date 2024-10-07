@@ -1,6 +1,6 @@
-name: 'Close Stale Issues'
+name: 'Fixed Close Stale Issues'
 description: 'Close issues and pull requests with no recent activity'
-author: 'GitHub'
+author: 'npt'
 inputs:
   repo-token:
     description: 'Token for the repository. Can be passed in using `{{ secrets.GITHUB_TOKEN }}`.'
