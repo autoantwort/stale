@@ -1,5 +1,5 @@
-name: 'Close Stale Issues'
-description: 'Close issues and pull requests with no recent activity'
+name: 'Close Stale Issues with #1152 and #1169'
+description: 'Close issues and pull requests with no recent activity. Original actions with PRs #1152 and #1169'
 author: 'GitHub'
 inputs:
   repo-token:
