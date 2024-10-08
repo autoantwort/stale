@@ -1,5 +1,5 @@
-name: 'Close Stale Issues'
-description: 'Close issues and pull requests with no recent activity'
+name: 'Close Stale Issues with unique Key'
+description: 'Close issues and pull requests with no recent activity unique Key'
 author: 'GitHub'
 inputs:
   repo-token:
